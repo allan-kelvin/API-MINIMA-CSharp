@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("miminal-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+35688298631f51490c1279d82b7823c9364a0778")]
 [assembly: System.Reflection.AssemblyProductAttribute("miminal-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("miminal-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

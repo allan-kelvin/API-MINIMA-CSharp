@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MiminalApi.Dominio.Entidades;
 
-public class Admnistrador 
+public class Veiculo 
 {
     [Key]
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -11,13 +11,13 @@ public class Admnistrador
 
     [Required]
     [StringLength(255)]
-    public string Email { get; set; } = default!;
+    public string nome { get; set; } = default!;
 
     [Required]
-    [StringLength(50)]
-    public string Senha { get; set; } = default!;
+    [StringLength(150)]
+    public string marca { get; set; } = default!;
 
     [Required]
     [StringLength(10)]
-    public string Perfil { get; set; } = default!;
+    public int ano { get; set; } = default!;
 }

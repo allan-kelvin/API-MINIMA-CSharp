@@ -161,3 +161,9 @@ C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9
 C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\obj\Debug\net9.0\miminal-api.sourcelink.json
+C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\allan\OneDrive\Documentos\Programação\9-C#\miminal-api\obj\Debug\net9.0\miminal-api.MvcApplicationPartsAssemblyInfo.cs

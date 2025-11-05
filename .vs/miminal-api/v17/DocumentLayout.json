@@ -7,24 +7,16 @@
       "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\servicos\\administradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:servicos\\administradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\servicos\\veiculosservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:servicos\\veiculosservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\interfaces\\iadministradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:interfaces\\iadministradorservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\dominio\\entidades\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:dominio\\entidades\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:infraestrutura\\db\\dbcontexto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:dominio\\entidades\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\dominio\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:dominio\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|c:\\users\\allan\\onedrive\\documentos\\programa\u00E7\u00E3o\\9-c#\\miminal-api\\interfaces\\iveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56229A69-2304-B6A4-8899-D751540EB7D8}|miminal-api.csproj|solutionrelative:interfaces\\iveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,64 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IAdministradorServico.cs",
-              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Interfaces\\IAdministradorServico.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IAdministradorServico.cs",
-              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Interfaces\\IAdministradorServico.cs",
-              "RelativeToolTip": "Interfaces\\IAdministradorServico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T23:59:05.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdministradorServico.cs",
-              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Servicos\\AdministradorServico.cs",
-              "RelativeDocumentMoniker": "Servicos\\AdministradorServico.cs",
-              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Servicos\\AdministradorServico.cs",
-              "RelativeToolTip": "Servicos\\AdministradorServico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T23:44:24.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbContexto.cs",
-              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Infraestrutura\\DB\\dbContexto.cs",
-              "RelativeDocumentMoniker": "Infraestrutura\\DB\\dbContexto.cs",
-              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Infraestrutura\\DB\\dbContexto.cs",
-              "RelativeToolTip": "Infraestrutura\\DB\\dbContexto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:55:13.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Dominio\\DTO\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "Dominio\\DTO\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Dominio\\DTO\\LoginDTO.cs",
-              "RelativeToolTip": "Dominio\\DTO\\LoginDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:54:43.175Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -100,23 +36,53 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:54:38.899Z",
+              "WhenOpened": "2025-11-05T16:57:36.211Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Dominio\\Entidades\\Administrador.cs",
-              "RelativeDocumentMoniker": "Dominio\\Entidades\\Administrador.cs",
-              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Dominio\\Entidades\\Administrador.cs",
-              "RelativeToolTip": "Dominio\\Entidades\\Administrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "VeiculosServico.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Servicos\\VeiculosServico.cs",
+              "RelativeDocumentMoniker": "Servicos\\VeiculosServico.cs",
+              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Servicos\\VeiculosServico.cs",
+              "RelativeToolTip": "Servicos\\VeiculosServico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:54:31.153Z",
+              "WhenOpened": "2025-11-05T14:24:20.226Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVeiculos.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Interfaces\\IVeiculos.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVeiculos.cs",
+              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Interfaces\\IVeiculos.cs",
+              "RelativeToolTip": "Interfaces\\IVeiculos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:24:49.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Dominio\\Entidades\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Entidades\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\allan\\OneDrive\\Documentos\\Programa\u00E7\u00E3o\\9-C#\\miminal-api\\Dominio\\Entidades\\Veiculo.cs",
+              "RelativeToolTip": "Dominio\\Entidades\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T14:16:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
